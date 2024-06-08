@@ -1,0 +1,14 @@
+{
+  "name": "aprendiendo-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:twitter": "cd 01-twitter-follow-card && npm i && npm run dev",
+    "start:ttt": "cd 02-tic-tac-toe && npm i && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
